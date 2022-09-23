@@ -4,3 +4,6 @@ for letter in "python":
 fruits = ["appple", "bananan","orange"]
 for index in range(len(fruits)):
     print("当前水果 %s" % fruits[index])
+
+
+# test
