@@ -16,4 +16,6 @@ print(df.columns)  # 返回列索引
 
 print(df1.T)  # 转置
 
+print(df.describe())  # 列数据统计
+
 
